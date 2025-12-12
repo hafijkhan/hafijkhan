@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F70000&center=true&random=true&width=480&height=64&lines=How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)
+[![Typing SVG](https://hafijkhan.github.io/svg/banner.svg)](https://hafijkhan.github.io/)
 
 ### Hola 👋
 ## Soy Carlos Ramos
