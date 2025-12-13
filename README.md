@@ -1,5 +1,5 @@
 <div class="hkBanner">
-  <img width="100vw" src="https://hafijkhan.github.io/svg/banner.svg"/>
+  <img width="100%" src="https://hafijkhan.github.io/svg/banner.svg"/>
 </div>
 
 
