@@ -1,4 +1,4 @@
-<div class="hkBanner">
+<div class="hkBanner" style="padding:20;">
   <img width="100%" src="https://hafijkhan.github.io/svg/banner.svg"/>
 </div>
 
