@@ -1,8 +1,8 @@
-[![Typing SVG](https://hafijkhan.github.io/svg/banner.svg)](https://hafijkhan.github.io/)
-
 <div class="hkBanner">
   <img width="100vw" src="https://hafijkhan.github.io/svg/banner.svg"/>
 </div>
+
+
 ### Hola 👋
 ## Soy Carlos Ramos
 ![](https://komarev.com/ghpvc/?username=cramosmartinez&color=0069b4)
